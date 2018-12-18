@@ -1,2 +1,1 @@
-# auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+User Authentication Scaffold using React/GraphQL
